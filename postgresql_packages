@@ -1,0 +1,5 @@
+postgresql
+postgresql-client
+postgresql-contrib
+libpq-dev
+postgresql-doc

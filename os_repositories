@@ -1,0 +1,2 @@
+$DEB_SERVER/debian wheezy main contrib non-free
+$DEB_SERVER/debian-security wheezy/updates main contrib non-free

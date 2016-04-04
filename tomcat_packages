@@ -1,0 +1,9 @@
+tomcat6
+tomcat6-admin
+tomcat6-common
+tomcat6-examples
+tomcat6-user
+libcommons-collections3-java
+libcommons-dbcp-java
+libcommons-pool-java
+libtomcat6-java

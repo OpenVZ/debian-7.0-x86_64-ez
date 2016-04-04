@@ -1,0 +1,32 @@
+libprocps0 procps
+insserv
+net-tools
+sysv-rc
+sysvinit-utils
+tzdata
+libklibc klibc-utils
+initramfs-tools
+libpcre3 libelf1 libffi5 libglib2.0-0 libkmod2 kmod module-init-tools libudev0 udev
+libpng12-0 libpciaccess0 libdrm-intel1 libdrm-radeon1 libdrm2 plymouth
+mountall
+libjson0
+upstart
+base-passwd
+initscripts
+adduser
+cpio
+diffutils
+libasprintf0c2 gettext-base
+grep
+gzip
+hostname
+iproute ifupdown
+makedev
+libmount1 mount
+ncurses-base
+netbase
+readline-common
+tar
+ucf
+util-linux
+libssl1.0.0
