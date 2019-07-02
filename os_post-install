@@ -245,6 +245,6 @@ touch etc/init.d/.legacy-bootordering
 # Disable sysvinit on dist-upgrade
 echo "Package: sysvinit
 Pin: release c=main
-Pin-Priority: -1" > etc/apt/preferences.d/parallels
+Pin-Priority: -1" > etc/apt/preferences.d/virtuozzo
 
 cd $MYDIR > /dev/null
