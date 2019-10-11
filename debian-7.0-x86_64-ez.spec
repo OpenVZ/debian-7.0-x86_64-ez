@@ -55,7 +55,7 @@ Name: %templatename-%templatever-%templatearch-ez
 Group: Virtuozzo/Templates
 License: GPL
 Version: 7.0.0
-Release: 3%{?dist}
+Release: 4%{?dist}
 BuildRoot: %_tmppath/%name-root
 BuildArch: noarch
 Requires: %package_manager_pkg
@@ -174,6 +174,9 @@ done
 %files -f files.lst
 
 %changelog
+* Thu Oct  3 2019 Denis Silakov <dsilakov@virtuozzo.com> 7.0.0-4
+- Use separate variable for debian security repos, see #PSBM-97899
+
 * Tue Dec  6 2016 Konstantin Volkov <wolf@virtuozzo.com> 7.0.0-2
 - Fixed timezone setup, see #PSBM-54121
 
